@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Beer-go web app
+
+Key Features:
+1. It Has two range slider for abv and ibu unit of beer.
+2. According to the range the ui renders the beer names along with it's picture, abv and ibu unit.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
