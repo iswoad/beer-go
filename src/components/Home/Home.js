@@ -64,8 +64,8 @@ const Home = () => {
                     />
                 </div>
                 <div className="col-md-6 ">
-                    <h1>IBU</h1>
-                    <p>International Bitterness Units</p>
+                    <h1>ABV</h1>
+                    <p>Alcohol by Volume</p>
                     <Slider
                         className = {classes.root}
                         value={ibuValue}
